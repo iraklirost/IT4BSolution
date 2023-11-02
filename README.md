@@ -1,4 +1,5 @@
 # IT4BSolution
 Using ASP.Net Core MVC techonologies 
 
-1.create user manamgent module
+1. Create User Manamgent Module
+2. Create Product Managment Modul
