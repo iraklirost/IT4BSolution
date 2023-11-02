@@ -6,3 +6,5 @@ Using ASP.Net Core MVC techonologies
 - Ecommerce Payment Model
 - Product review modul
 - Adds management modul
+- Add Business pages
+
