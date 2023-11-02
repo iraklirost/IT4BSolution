@@ -7,4 +7,6 @@ Using ASP.Net Core MVC techonologies
 - Product review modul
 - Adds management modul
 - Add Business pages
+- Add market page
+
 
