@@ -8,5 +8,6 @@ Using ASP.Net Core MVC techonologies
 - Adds management modul
 - Add Business pages
 - Add market page
+- Add ralated business
 
 
