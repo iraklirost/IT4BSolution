@@ -1,8 +1,10 @@
 # IT4BSolution
 Create updated valuable source in ASP.Net Core MVC techonologies that will help busness and IT  people to solve their problmes and create valuable software product.
 Business and IT people are wellcome here to create Team! 
+The Idea of this repository is to create share codes ant then use it in our projects.
 
 ## User Manamgent Module
+## Cotnract Managment Modul
 ## Product Managment Modul
 ## Ecommerce Payment Model
 ## Product review modul
