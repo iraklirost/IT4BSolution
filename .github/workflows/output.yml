@@ -6,3 +6,7 @@ jobs:
     steps:
       - name: Output GitHub context
         run: echo "${{ toJSON(github) }}"
+      - name: Output environments
+        run: echo "${{ toJSON(env) }}"
+      - name: Output jobs
+        run: echo "${{ toJSON(job) }}"
