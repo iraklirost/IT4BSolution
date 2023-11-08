@@ -1,0 +1,11 @@
+name:  Test Proejct
+on: push
+jobs:   
+  test:
+    runs-on: ubuntu-latest
+    steps:
+      - name:Get code
+      - name: install
+      - name: run tests
+        run: echo "test run"
+  
