@@ -12,6 +12,8 @@ The Idea of this repository is to create share codes ant then use it in our proj
 ## Business pages
 ### Add ralated business
 ## market page
+## Administration Managment modul
+### Mailing/Masseging Managment Modul
 # Git
 https://github.com/actions/checkout/blob/main/.github/workflows/test.yml 
 https://docs.github.com/en/actions/using-workflows/events-that-trigger-workflows 
