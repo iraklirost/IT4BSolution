@@ -1,0 +1,33 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.002.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Blazor", "Blazor", "{236E9C43-5DF0-45E4-ABBA-AC80B0F7340D}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "BlazingPizza", "BlazingPizza", "{61E9A7A3-9433-47A7-AA9D-80F0E69249CE}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "BlazingPizza", "Blazor\BlazingPizza\BlazingPizza\BlazingPizza.csproj", "{0387AA71-9DC1-4633-8A6B-32AAB8A2D200}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0387AA71-9DC1-4633-8A6B-32AAB8A2D200}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0387AA71-9DC1-4633-8A6B-32AAB8A2D200}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0387AA71-9DC1-4633-8A6B-32AAB8A2D200}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0387AA71-9DC1-4633-8A6B-32AAB8A2D200}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{61E9A7A3-9433-47A7-AA9D-80F0E69249CE} = {236E9C43-5DF0-45E4-ABBA-AC80B0F7340D}
+		{0387AA71-9DC1-4633-8A6B-32AAB8A2D200} = {61E9A7A3-9433-47A7-AA9D-80F0E69249CE}
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {3C7B22F7-83A3-4A93-B8B9-19F260E7245D}
+	EndGlobalSection
+EndGlobal
