@@ -11,7 +11,28 @@ dotnet new classlib -n CleanArchitecture.Core
 dotnet new classlib -n CleanArchitecture.Application
 dotnet new classlib -n CleanArchitecture.Infrustructure
 
+cd CleanArchitecture.Application/
+dotnet add CleanArchitecture.Application.csproj reference ../CleanArchitecture.Core/CleanArchitecture.Core.csproj
+
+cd .. cd CleanArchitecture.Infrustructure/
+dotnet add CleanArchitecture.Infrustructure.csproj reference ../CleanArchitecture.Application/CleanArchitecture.Application.csproj
 
 
-based on
+#Ardalis Template
+dotnet new install Ardalis.CleanArchitecture.Template
+dotnet new clean-arch -o CleanArchitecture.SME
+
+
+
+
+
+https://github.com/rahulsahay19?tab=repositories  - https://github.com/rahulsahay19/clean-architecture 
+ 
 https://www.udemy.com/course/getting-started-with-clean-architecture-using-net-core/learn/lecture/36832188#overview 
+https://blog.cleancoder.com/uncle-bob/2012/08/13/the-clean-architecture.html 
+
+
+https://github.com/jasontaylordev/CleanArchitecture - with ASP.NET Core and Angular or React
+https://github.com/ardalis/cleanarchitecture - 
+
+
