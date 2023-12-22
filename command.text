@@ -1,0 +1,17 @@
+
+dotnet new sln //dotnet new sln
+dotnet new sln --name CleanArcitectur //The following example creates a .sln file in the current folder, with the same name as the folder:
+dotnet new sln --output CleanArcitecture  //The following example creates a .sln file in the specified folder, with the same name as the folder:
+
+# Create a new ASP.NET Core Web API project
+dotnet new webapi -n CleanArchitecture.API
+dotnet new console -n CleanArchitecture.API
+
+dotnet new classlib -n CleanArchitecture.Core
+dotnet new classlib -n CleanArchitecture.Application
+dotnet new classlib -n CleanArchitecture.Infrustructure
+
+
+
+based on
+https://www.udemy.com/course/getting-started-with-clean-architecture-using-net-core/learn/lecture/36832188#overview 

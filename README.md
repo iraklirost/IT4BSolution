@@ -1,5 +1,5 @@
 # IT4BSolution
-Create updated valuable source in ASP.Net Core diferent  techonologies that will help busness and IT  people to solve problmes and create valuable software product 
+Create updated valuable source in ASP.Net Core techonologies that will help busness and IT  people to solve problmes and create valuable software product 
 The idea of this repository is to create share codes ant  use it in projects.
 
 ## User Manamgent module
