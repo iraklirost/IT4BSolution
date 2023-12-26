@@ -36,3 +36,7 @@ https://github.com/jasontaylordev/CleanArchitecture - with ASP.NET Core and Angu
 https://github.com/ardalis/cleanarchitecture - 
 
 
+dotnet new sln --name Tangy
+dotnet new sln --output Tangy
+dotnet new blazorserver -n TangyWeb_Server
+dotnet new blazorwasm -n TangyWeb_Clinet
