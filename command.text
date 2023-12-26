@@ -40,3 +40,6 @@ dotnet new sln --name Tangy
 dotnet new sln --output Tangy
 dotnet new blazorserver -n TangyWeb_Server
 dotnet new blazorwasm -n TangyWeb_Clinet
+dotnet new classlib -n Tangy_Models
+
+

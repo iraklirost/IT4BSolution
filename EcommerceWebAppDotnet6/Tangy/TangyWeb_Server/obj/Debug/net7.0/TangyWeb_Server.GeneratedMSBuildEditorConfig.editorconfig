@@ -32,6 +32,10 @@ build_metadata.AdditionalFiles.CssScope =
 build_metadata.AdditionalFiles.TargetPath = UGFnZXMvSW5kZXgucmF6b3I=
 build_metadata.AdditionalFiles.CssScope = 
 
+[/workspaces/IT4BSolution/EcommerceWebAppDotnet6/Tangy/TangyWeb_Server/Pages/Production/Products.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXMvUHJvZHVjdGlvbi9Qcm9kdWN0cy5yYXpvcg==
+build_metadata.AdditionalFiles.CssScope = 
+
 [/workspaces/IT4BSolution/EcommerceWebAppDotnet6/Tangy/TangyWeb_Server/Shared/SurveyPrompt.razor]
 build_metadata.AdditionalFiles.TargetPath = U2hhcmVkL1N1cnZleVByb21wdC5yYXpvcg==
 build_metadata.AdditionalFiles.CssScope = 
